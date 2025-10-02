@@ -26,11 +26,10 @@ I love working with **JavaScript, Ruby, React, Next.js, and Ruby on Rails**.
 
 ---
 
-## 📫 Connect With Me  
-- [LinkedIn](https://www.linkedin.com/in/muhammad-muneeb-50628819a)  
-- [Portfolio](https://muneebrana414.vercel.app/)  
-- [Email](mailto:muneebrana414@gmail.com)  
-
+## 📫 Connect With Me 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-muneeb-50628819a)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://muneebrana414.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muneebrana414@gmail.com)
 ---
 
 ⭐️ _“Code is like humor. When you have to explain it, it’s bad.”_  
